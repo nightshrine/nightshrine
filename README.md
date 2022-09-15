@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightshrine&layout=compact&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightshrine&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nightshrine/nightshrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
