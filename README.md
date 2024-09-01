@@ -16,6 +16,7 @@
 | 2024年4月 ~ | 静岡大学大学院に進学。企業連携での新たな研究を行う。（非公開研究） |
 | 2024年8月 | 株式会社CARTA HOLDINGSの「Treasure」に参加 |
 | 2024年9月 | 株式会社PKSHA Technologyの就業インターンに1ヶ月間参加 |
+| 2024年9月 | 株式会社ディー・エヌ・エーの短期サマーインターンに参加 |
 <!--
 **nightshrine/nightshrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
