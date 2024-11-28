@@ -17,6 +17,7 @@
 | 2024年8月 | 株式会社CARTA HOLDINGSの「Treasure」に参加 |
 | 2024年9月 | 株式会社PKSHA Technologyの就業インターンに1ヶ月間参加 |
 | 2024年9月 | 株式会社ディー・エヌ・エーの短期サマーインターンに参加 |
+| 2026年4月 | 株式会社PKSHA Technologyに入社予定 |
 <!--
 **nightshrine/nightshrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
